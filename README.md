@@ -13,7 +13,7 @@ Forked from [Forever Thankful on FB](https://github.com/CaliAlec/Forever-Thankfu
 <br />
 
 <p align="center">
-<img width="519" src="https://cloud.githubusercontent.com/assets/2003684/26189097/ac4bc184-3b57-11e7-9f34-721bae361c71.png">
+<img width="519" src="https://i.imgur.com/QyuoXdF.png">
 </p>
 
 # License

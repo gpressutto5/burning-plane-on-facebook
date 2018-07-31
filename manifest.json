@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Forever Thankful on FB",
-  "description": "Chrome extension that brings back the thankful reaction because every day is a day for thanks.",
+  "name": "Burning Plane on facebook",
+  "description": "Chrome extension that facilitates the use of fire and airplane reactions.",
   "version": "1.0.0",
   "permissions": [
     "*://*.facebook.com/*"

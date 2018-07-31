@@ -1,14 +1,14 @@
-# Forever Thankful on FB
+# Burning Plane on facebook
 
 <p align="center">
-<img src="https://cloud.githubusercontent.com/assets/2003684/26189100/af2bf5c2-3b57-11e7-8348-8985009edfa2.png">
+<img src="https://github.com/gpressutto5/burning-plane-on-facebook/blob/master/icon-128.png">
 </p>
 
 <br />
 
-Chrome extension that brings back the Thankful Reaction because every day is a day for thanks. 🌸
+Chrome extension that facilitates the use of fire and airplane reactions. :airplane: :fire:
 
-Just because Mother's Day is over doesn't mean we can't show our gratitude to others. With this extension installed, the Thankful Reaction will appear at the end of the normal Reactions for you to use on posts and comments.
+Forked from [Forever Thankful on FB](https://github.com/CaliAlec/Forever-Thankful-On-FB)
 
 <br />
 

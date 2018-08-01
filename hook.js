@@ -4,8 +4,6 @@ const DEFAULT_SUPPORTED_REACTIONS_COUNT = 6;
 const REACTION_TYPE_ID_FIRE = 14;
 const REACTION_TYPE_ID_PLANE = 15;
 
-hookFacebookReactions();
-
 // hooks into the React components that are responsible for Facebook Reactions
 function hookFacebookReactions() {
   if(window.requireLazy) {
@@ -31,3 +29,5 @@ function hookFacebookReactions() {
     console.log('Failed to inject Facebook Reactions hook.');
   }
 }
+
+document.addEventListener('DOMContentLoaded', hookFacebookReactions)

@@ -1,3 +1,5 @@
+>Facebook fixed it. This extension does not work anymore.
+
 # Burning Plane on facebook
 
 <p align="center">
